@@ -15,7 +15,7 @@ Use the cross compiled ffmpeg for arm, here is the instruction and the download 
 <li>Install Raspbian and download the crosscompiled ffmpeg to your Computer:
 https://drive.google.com/file/d/0B0OC20ApqKZ_YVB3NHF6VU9XTUE/edit?usp=sharing</li>
 <li>Transfer the arm.tar to raspberry PI and Untar with
-<code># tar -xvf arm.tar.gz</code>
+<p><code># tar -xvf arm.tar.gz</code></p>
 </li>
 <li>move to the new folder
 <p><code>cd ./arm/bin</code></p>
