@@ -1,7 +1,7 @@
 # Raspberry-Cam - Scripts per a la Raspberry Cam
 
 Scripts for the raspberry cam
-Tested on Raspberry Pi A+ an PiNoir Camera
+Tested on Raspberry Pi A+ and PiNoir Camera
 
 <h2>start_mjpg.sh</h2>
 Start stream based in pictures with MJPG
